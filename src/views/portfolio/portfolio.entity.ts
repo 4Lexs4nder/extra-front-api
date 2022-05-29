@@ -80,4 +80,10 @@ export const LogColumns: IHeadCell<IPortfolio>[] = [
     numeric: false,
     disablePadding: false,
   },
+  {
+    id: "amount",
+    label: "Amount",
+    numeric: false,
+    disablePadding: false,
+  },
 ];
