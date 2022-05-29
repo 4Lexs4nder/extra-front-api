@@ -1,4 +1,3 @@
-import { randomUUID } from "crypto";
 import { NTable } from "../../components/nTable/NTable";
 import { useGetData } from "../../shared/useGetData";
 import { ILog, ILogsResponse, LogColumns, LogsQuery } from "./logs.entity";
